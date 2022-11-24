@@ -45,7 +45,7 @@ export function Header({ app }: { app: AppMeta }): JSX.Element {
             rel="noreferrer noopener"
             target="_blank"
           >
-            GitHub
+            GitHub preview/20221124
           </a>
         </div>
         <div className={styles.Search}>
